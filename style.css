@@ -1,0 +1,47 @@
+body {
+    background-color: #f7f4eb;
+    color: #263c35;
+    font-family: Arial;
+    margin: 0;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #263c35;
+    margin: 10px;
+}
+
+.home {
+    text-align: center;
+    padding: 60px;
+}
+
+.home h1 {
+    font-size: 45px;
+}
+
+.home img {
+    width: 250px;
+    height: 300px;
+    border-radius: 100px 100px 15px 15px;
+}
+
+.page {
+    text-align: center;
+    padding: 80px;
+}
+
+.page h1 {
+    font-size: 40px;
+}
+
+.page p {
+    line-height: 1.8;
+}
